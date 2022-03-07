@@ -6,9 +6,26 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! 
+  I am a Ph.D Candidate in Finance from Carlson School of Management, University of Minnesota.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  My research interest is Macro-Finance, Dynamics Corporate and Monetary Policy
+</p>
+
+<p>
+  Link to: <a href="https://github.com/eliottvincent/bay">CV</a>.
+</p>
+
+<p>
+  Contact Information:
+</p>
+
+<p>
+  Address: Department of Finance, 3-122 Carlson School of Management, 321 19th Ave South, Minneapolis, MN, 55455
+</p>
+
+<p>
+  Email: chen3912@umn.edu
 </p>
