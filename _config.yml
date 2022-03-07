@@ -26,10 +26,6 @@ footer:
     - name: Email
       value: chen3912@umn.edu
       link: mailto:chen3912@umn.edu
-    
-  follow:
-    - name: GitHub
-      link: http://github.com/chen3912
 
 # Build settings
 markdown: kramdown
