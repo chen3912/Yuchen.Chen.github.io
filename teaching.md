@@ -7,7 +7,7 @@ slug: /Teaching
 <strong>Instructor, Carlson School of Management, University of Minnesota (2019-2020) </strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px">FINA 3001 Finance Fundamentals: 3-credit undergraduate class;</li>
-<li style="list-style-type:circle;font-size:14px">Teaching evaluation score: 5.5/6;</li>
+<li style="list-style-type:circle;font-size:14px">Teaching evaluation score: <strong>5.5</strong>/6;</li>
 <li style="list-style-type:circle;font-size:14px">Received Ph.D Excellence in Teaching Award, University of Minnesota (2020);</li>
 <li style="list-style-type:circle;font-size:14px">Received John Willard Herrick Teaching Award, University of Minnesota (2020).</li>
 </ul>
