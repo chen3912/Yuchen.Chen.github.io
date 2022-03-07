@@ -11,9 +11,9 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: Home       # <-- index.md
       slug: /
-    - name: Research
+    - name: Research   # <-- research.md
     - name: Teaching
 
 footer:
