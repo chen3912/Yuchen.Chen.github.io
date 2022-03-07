@@ -26,8 +26,11 @@ profile_picture:
 
  <p>Address:</p>
  <p>Department of Finance
+  
  3-122 Carlson School of Management
+  
  321 19th Ave South
+  
  Minneapolis, MN, 55455
 </p>
 
