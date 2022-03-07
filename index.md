@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile-picture.jpeg
   alt: website picture
 ---
 
@@ -24,11 +24,12 @@ profile_picture:
 
 <strong>Contact Information:</strong>
 
- <p>Address:</p>
- <p>Department of Finance</p>
- <p>3-122 Carlson School of Management</p>
- <p>321 19th Ave South</p>
- <p>Minneapolis, MN, 55455</p>
+ <p>Address:
+ <a>Department of Finance</a>
+ <a>3-122 Carlson School of Management</a>
+ <a>321 19th Ave South</a>
+ Minneapolis, MN, 55455
+</p>
 
 <p>
   Email: chen3912@umn.edu
