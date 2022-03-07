@@ -14,9 +14,7 @@ header:
     - name: Home       
       slug: /          # <-- index.md
     - name: Research  
-      slug: /          # <-- research.md
     - name: Teaching
-      slug: /
 
 footer:
   show_powered_by: false
