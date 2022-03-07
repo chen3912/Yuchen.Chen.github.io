@@ -11,10 +11,12 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home       # <-- index.md
-      slug: /
-    - name: Research   # <-- research.md
+    - name: Home       
+      slug: /          # <-- index.md
+    - name: Research  
+      slug: /          # <-- research.md
     - name: Teaching
+      slug: /
 
 footer:
   show_powered_by: false
