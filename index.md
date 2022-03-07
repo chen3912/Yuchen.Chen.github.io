@@ -24,8 +24,7 @@ profile_picture:
 
 <strong>Contact Information:</strong>
 
- <p>Address:</p>
- 
+ <p>Address:
  <div>Department of Finance</div>
  <div>3-122 Carlson School of Management</div>
  <div>321 19th Ave South</div>
@@ -33,5 +32,5 @@ profile_picture:
 </p>
 
 <p>
-  Email: <a href="mailto:chen3912@umn.edu" target="_blank">chen3912[at]umn.edu</a>
+  Email: <a href="mailto:chen3912@umn.edu" target="_blank">chen3912@umn.edu</a>
 </p>
