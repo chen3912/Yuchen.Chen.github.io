@@ -20,5 +20,5 @@ slug: /Teaching
 
 <strong>Teaching Assistant,  School of Statistics, University of Minnesota </strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Undergraduate Courses: Regression Analysis, Theory of Statistics, Statistical Computing. </li>
+<li style="list-style-type:circle;font-size:14px"><strong>Undergraduate Courses:</strong> Regression Analysis, Theory of Statistics, Statistical Computing. </li>
 </ul>
