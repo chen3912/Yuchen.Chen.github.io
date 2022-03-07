@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-picture.jpeg
+  src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
 
@@ -25,9 +25,9 @@ profile_picture:
 <strong>Contact Information:</strong>
 
  <p>Address:
- <a>Department of Finance</a>
- <a>3-122 Carlson School of Management</a>
- <a>321 19th Ave South</a>
+ Department of Finance</a>
+ 3-122 Carlson School of Management</a>
+ 321 19th Ave South</a>
  Minneapolis, MN, 55455
 </p>
 
