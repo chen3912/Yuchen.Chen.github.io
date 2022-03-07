@@ -14,7 +14,7 @@ profile_picture:
 <strong>Primary research interests</strong>
 
 <p>
-  Macro-Finance, Dynamics Corporate and Monetary Policy
+  Macro-Finance, Dynamic Corporate and Monetary Policy
 </p>
 
 <p>
