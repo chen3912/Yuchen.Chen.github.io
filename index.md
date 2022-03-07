@@ -24,13 +24,11 @@ profile_picture:
 
 <strong>Contact Information:</strong>
 
-<p>
-  Address 
-  Department of Finance
-  3-122 Carlson School of Management
-  321 19th Ave South
-  Minneapolis, MN, 55455
-</p>
+ <p>Address:</p>
+ <p>Department of Finance</p>
+ <p>3-122 Carlson School of Management</p>
+ <p>321 19th Ave South</p>
+ <p>Minneapolis, MN, 55455</p>
 
 <p>
   Email: chen3912@umn.edu
