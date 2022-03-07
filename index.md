@@ -5,13 +5,16 @@ profile_picture:
   alt: website picture
 ---
 
+<strong>Welcome!</strong>
+
 <p>
-  Welcome! 
   I am a Ph.D Candidate in Finance from Carlson School of Management, University of Minnesota.
 </p>
 
+<strong>Primary research interests</strong>
+
 <p>
-  Primary research interests: Macro-Finance, Dynamics Corporate and Monetary Policy
+  Macro-Finance, Dynamics Corporate and Monetary Policy
 </p>
 
 <p>
