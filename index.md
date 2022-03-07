@@ -11,19 +11,22 @@ profile_picture:
 </p>
 
 <p>
-  My research interest is Macro-Finance, Dynamics Corporate and Monetary Policy
+  Primary research interests: Macro-Finance, Dynamics Corporate and Monetary Policy
 </p>
 
 <p>
   Link to: <a href="https://github.com/eliottvincent/bay">CV</a>.
 </p>
 
-<p>
-  Contact Information:
-</p>
+
+<strong>Contact Information:</strong>
 
 <p>
-  Address: Department of Finance, 3-122 Carlson School of Management, 321 19th Ave South, Minneapolis, MN, 55455
+  Address 
+  Department of Finance
+  3-122 Carlson School of Management
+  321 19th Ave South
+  Minneapolis, MN, 55455
 </p>
 
 <p>
