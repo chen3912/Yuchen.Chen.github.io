@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: teach
 title: Teaching
 slug: /Teaching
 ---
