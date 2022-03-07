@@ -4,7 +4,7 @@
 title: Yuchen Chen
 description: >- # this means to ignore newlines until "baseurl:"
   Finance Ph.D Candidate, University of Minnesota.
-baseurl: "https://chen3912.github.io" # the subpath of the site
+baseurl: "chen_blog" # the subpath of the site
 url: "https://chen3912.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-picture.jpeg
 google_analytics: "UA-121636368-3"
