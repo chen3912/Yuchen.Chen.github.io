@@ -16,15 +16,15 @@ slug: /Teaching
 <ul>
 <li style="list-style-type:circle;font-size:14px"><strong>MBA/MSF Courses:</strong> 
   
-<div>Corporate Finance Analysis and Decisions, Financial Management, Carlson Funds Enterprise: Fixed Income, Portfolio Analysis and Management, World Economy, Debt Markets, Interest Rates & Hedging, Financial Econometrics and Computational Methods</li></div>
+<div>Corporate Finance Analysis and Decisions, Financial Management, Carlson Funds Enterprise: Fixed Income, Portfolio Analysis and Management, World Economy, Debt Markets, Interest Rates & Hedging, Financial Econometrics and Computational Methods</div></li>
 <li style="list-style-type:circle;font-size:14px"><strong>Undergraduate Courses:</strong> 
   
-<div>Derivatives, Financial Markets & Interest Rates, The Global Economy, Portfolio Management & Performance Evaluation, Mergers and Acquistions, Banking Institutions.</li></div>
+<div>Derivatives, Financial Markets & Interest Rates, The Global Economy, Portfolio Management & Performance Evaluation, Mergers and Acquistions, Banking Institutions.</div></li>
 </ul>
 
 <strong>Teaching Assistant,  School of Statistics, University of Minnesota </strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px"><strong>Undergraduate Courses:</strong> 
   
-<div>Regression Analysis, Theory of Statistics, Statistical Computing. </li></div>
+<div>Regression Analysis, Theory of Statistics, Statistical Computing.</div></li>
 </ul>
