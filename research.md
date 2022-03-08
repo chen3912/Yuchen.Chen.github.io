@@ -6,8 +6,9 @@ slug: /Research
 items:
   - title: JMP
     description: <strong>Monetary Policy, Debt Structure and Credit Reallocation</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  
-    award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
+    authors: Yuchen Chen
     numbering: 1
+    award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
     abstract: Unexpected monetary tightening predicts a contraction in aggregate corporate bonds but an expansion in bank loans. Using micro-data, I argue that, large, high rated firms with high collateral value rebalance towards bank loans and away from corporate bonds as the relative spread of bond over loan increases. This drives the aggregate evidence. I explain these facts in a heterogeneous agents New Keynesian model by making bank loans safer (collateralized) than defaultable bonds but issued at a greater intermediation cost. An interest rate hike raises default risk and hence the cost of bond financing. Substitution takes place within large, unconstrained firms, while constrained firms tend to issue more equity. My results imply that bank credit is ``misallocated" from constrained productive to unconstrained firms. Additionally, this substitution effect mitigates the negative impact on large firm investment but not enough to avoid a decline in aggregate investment.
   - title: BankLS
     description: <strong>Do Bankers Matter for Main Street? The Financial Intermediary Labor Channel</strong> 
