@@ -24,7 +24,8 @@ profile_picture:
 
 <strong>Contact Information:</strong>
 
- <p>Address:
+ <p>
+ <div>Address:</div>
  <div>Department of Finance</div>
  <div>3-122 Carlson School of Management</div>
  <div>321 19th Ave South</div>
