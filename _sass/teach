@@ -1,0 +1,12 @@
+.teach-item {
+  clear: both;
+  overflow: hidden;
+  padding-bottom: 3em;
+}
+
+.teach-bubble {
+  float: left;
+  padding-right: 20px;
+  width: 100px;
+  height: 100px;
+}
