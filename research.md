@@ -25,11 +25,9 @@ progress:
   - title: 
     description: 
     numbering: 1
-    
-pubs:
   - title: OSER
     description: <strong>The One Standard Error Rule: How Well Does It Work?</strong> 
     authors: With <a href = "http://users.stat.umn.edu/~yangx374/" target="_blank">Yuhong Yang</a>
     publication: <strong><i>Stats</i></strong>, 4(4): 868-892, Nov. 2021
-    numbering: 1 
+    numbering: 2 
 ---
