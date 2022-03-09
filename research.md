@@ -21,6 +21,8 @@ items:
     numbering: 3
     abstract: We develop an optimal contracting model in which limited enforcement of financial contracts generates dispersion in marginal products of capital across firms. We show that the optimal contract can be implemented using state-contingent transfers and a simple collateral constraint that limits the capital input of firms by a fraction of the financial wealth of the firm owner. Compared to models with exogenous collateral constraint and incomplete markets (for example Moll (2014)), we find that the degree of measured misallocation is increasing in the persistence of the idiosyncratic productivity shocks. Under the optimal contract, the possibility to transfer wealth from high productivity states to low productivity states allows firm owners to trade off efficient allocation of consumption against the efficient allocation of capital. We show that for reasonable values of risk aversion, insurance needs more than offset production efficiency concerns.
   - title: OSER
+    description: <strong>Capital Misallocation and Risk Sharing</strong>
+    numbering: 4
     
 progress:
   - title: 
