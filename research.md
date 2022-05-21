@@ -22,9 +22,10 @@ items:
     abstract: We develop an optimal contracting model in which limited enforcement of financial contracts generates dispersion in marginal products of capital across firms. We show that the optimal contract can be implemented using state-contingent transfers and a simple collateral constraint that limits the capital input of firms by a fraction of the financial wealth of the firm owner. Compared to models with exogenous collateral constraint and incomplete markets (for example Moll (2014)), we find that the degree of measured misallocation is increasing in the persistence of the idiosyncratic productivity shocks. Under the optimal contract, the possibility to transfer wealth from high productivity states to low productivity states allows firm owners to trade off efficient allocation of consumption against the efficient allocation of capital. We show that for reasonable values of risk aversion, insurance needs more than offset production efficiency concerns.
     - title: AppropriatedGrowth
     description: <strong>Appropriated Growth</strong> 
-    authors: With <a href="https://xuelinli.com/" target="_blank">Xuelin Li</a>, <a href="https://sites.google.com/site/richardthakor/" target="_blank">Richard T. Thakor</a>, and <a href = "https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
+    authors: With <a href="https://xuelinli.com/" target="_blank">Xuelin Li</a>
     numbering: 4
-    abstract: 
+    abstract: How should the rents from intangible capital be allocated within firms to benefit growth? We build a novel value index of executives' outside options
+and show that a strengthening in the enforcement of non-compete agreements causally raises the index by 10.8 percent while reducing annual firm investment in intangible capital by 80 basis points. We construct a quantitative dynamic agency model that accounts for our findings and codetermines the severity of conflicts with the allocation of rents and growth. We use our calibrated model to study the impact of mobility on economic growth and find potential gains from policies that enhance mobility and alleviate agency problems.
   - title: OSER
     description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]
     authors: With <a href="http://users.stat.umn.edu/~yangx374/" target="_blank">Yuhong Yang</a>
