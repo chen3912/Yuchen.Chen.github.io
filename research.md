@@ -24,8 +24,6 @@ items:
     description: <strong>Appropriated Growth</strong> 
     authors: With <a href="https://xuelinli.com/" target="_blank">Xuelin Li</a>
     numbering: 4
-    abstract: How should the rents from intangible capital be allocated within firms to benefit growth? We build a novel value index of executives' outside options
-and show that a strengthening in the enforcement of non-compete agreements causally raises the index by 10.8 percent while reducing annual firm investment in intangible capital by 80 basis points. We construct a quantitative dynamic agency model that accounts for our findings and codetermines the severity of conflicts with the allocation of rents and growth. We use our calibrated model to study the impact of mobility on economic growth and find potential gains from policies that enhance mobility and alleviate agency problems.
   - title: OSER
     description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]
     authors: With <a href="http://users.stat.umn.edu/~yangx374/" target="_blank">Yuhong Yang</a>
