@@ -14,7 +14,7 @@ items:
     description: <strong>Do Bankers Matter for Main Street? The Financial Intermediary Labor Channel</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106828" target="_blank">SSRN</a>]
     authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
     numbering: 2
-    abstract: The financial economics literature emphasizes the stress of financial intermediaries (FIs), measured by leverage and collateral constraints, as an important driver of asset prices and quantities. We identify a new and equally important channel through which FIs affect risk and the real sector: FIs are stressed when their labor share is high. FIs labor share negatively forecasts growth of aggregate output, investment, and credit; it positively forecasts market excess returns and cost of credit. In the cross-section, banks with higher labor share lend less and have higher credit risk. Firms connected to such banks borrow less, pay more to borrow, have higher credit risk, and lower earnings growth; they also invest less if they are financially constrained. We explain these findings in a DSGE model where FIs face shocks to the quantity of labor needed to intermediate capital.
+    abstract: 
   - title: CapitalMisalc
     description: <strong>Capital Misallocation and Risk Sharing</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521553" target="_blank">SSRN</a>]
     authors: With <a href="https://www.hengjieai.com/" target="_blank">Hengjie Ai</a>, <a href="http://www.bhandarianmol.com/" target="_blank">Anmol Bhandari</a>, and <a href = "https://chaoy.weebly.com/" target="_blank">Chao Ying</a>
@@ -26,7 +26,7 @@ items:
     numbering: 4
     abstract: How should the rents from intangible capital be allocated within firms to benefit growth? We build a novel value index of executives' outside options and show that a strengthening in the enforcement of non-compete agreements causally raises the index by 10.8 percent while reducing annual firm investment in intangible capital by 80 basis points. We construct a quantitative dynamic agency model that accounts for our findings and codetermines the severity of conflicts with the allocation of rents and growth. We use our calibrated model to study the impact of mobility on economic growth and find potential gains from policies that enhance mobility and alleviate agency problems.
   - title: OSER
-    description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]     [Master Thesis</a>]
+    description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]     (Master Thesis</a>)
     authors: With <a href="http://users.stat.umn.edu/~yangx374/" target="_blank">Yuhong Yang</a>
     publication: <strong><i>Stats</i></strong>, 4(4)&#58; 868-892
     numbering: 5
