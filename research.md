@@ -26,15 +26,16 @@ items:
     numbering: 4
     abstract: How should the rents from intangible capital be allocated within firms to benefit growth? We build a novel value index of executives' outside options and show that a strengthening in the enforcement of non-compete agreements causally raises the index by 10.8 percent while reducing annual firm investment in intangible capital by 80 basis points. We construct a quantitative dynamic agency model that accounts for our findings and codetermines the severity of conflicts with the allocation of rents and growth. We use our calibrated model to study the impact of mobility on economic growth and find potential gains from policies that enhance mobility and alleviate agency problems.
   - title: OSER
-    description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]
+    description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]     [Master Thesis</a>]
     authors: With <a href="http://users.stat.umn.edu/~yangx374/" target="_blank">Yuhong Yang</a>
     publication: <strong><i>Stats</i></strong>, 4(4)&#58; 868-892
     numbering: 5
     abstract: Previous research provided a lot of discussion on the selection of regularization parameters when it comes to the application of regularization methods for high-dimensional regression. The popular "One Standard Error Rule" (1se rule) used with cross validation (CV) is to select the most parsimonious model whose prediction error is not much worse than the minimum CV error. This paper examines the validity of the 1se rule from a theoretical angle and also studies its estimation accuracy and performances in applications of regression estimation and variable selection, particularly for Lasso in a regression framework. Our theoretical result shows that when a regression procedure produces the regression estimator converging relatively fast to the true regression function, the standard error estimation formula in the 1se rule is justified asymptotically. The numerical results show the following&#58; 1. the 1se rule in general does not necessarily provide a good estimation for the intended standard deviation of the cross validation error. The estimation bias can be 50–100% upwards or downwards in various situations; 2. the results tend to support that 1se rule usually outperforms the regular CV in sparse variable selection and alleviates the over-selection tendency of Lasso; 3. in regression estimation or prediction, the 1se rule often performs worse. In addition, comparisons are made over two real data sets&#58; Boston Housing Prices (large sample size n, small/moderate number of variables p) and Bardet–Biedl data (large p, small n). Data guided simulations are done to provide insight on the relative performances of the 1se rule and the regular CV.
     
 progress:
-  - title: 
-    description: 
+  - title: solo2
+    description: <strong>Monetary Policy, Extrapolation Bias and Investment</strong> 
+    authors: Yuchen Chen
     numbering: 1
 
 ---
