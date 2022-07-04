@@ -18,7 +18,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://github.com/eliottvincent/bay">CV</a>.
+  Link to: <a href="https://www.dropbox.com/home/CV?preview=CV_YuchenChen.pdf">CV</a>.
 </p>
 
 
