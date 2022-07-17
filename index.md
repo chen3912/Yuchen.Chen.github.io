@@ -18,7 +18,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://drive.google.com/drive/folders/0AK4ZJME7puz3Uk9PVA">CV</a>.
+  Link to: <a href="https://drive.google.com/file/d/1Vn_Q6Dp3fkSz4pXYQFPNUhLPDjAQq2kA/view">CV</a>.
 </p>
 
 
