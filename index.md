@@ -18,7 +18,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://www.dropbox.com/home/CV?preview=CV_YuchenChen.pdf">CV</a>.
+  Link to: <a href="https://drive.google.com/drive/my-drive">CV</a>.
 </p>
 
 
