@@ -8,7 +8,7 @@ profile_picture:
 <strong>Welcome!</strong>
 
 <p>
-  I am a Ph.D Candidate in Finance from Carlson School of Management, University of Minnesota.
+  I am a Ph.D Candidate in Finance from Carlson School of Management, University of Minnesota. I was a Dissertation Fellow at the Federal Reserve Bank of New York in 2022 Summer.
 </p>
 
 <strong>Primary research interests</strong>
