@@ -17,7 +17,7 @@ profile_picture:
   Macro-Finance, Dynamic Corporate and Monetary Policy
 </p>
 
-<strong>Secondary research interests</strong>
+<strong>Secondary research interest</strong>
 
 <p>
   Asset Pricing
