@@ -17,6 +17,12 @@ profile_picture:
   Macro-Finance, Dynamic Corporate and Monetary Policy
 </p>
 
+<strong>Secondary research interests</strong>
+
+<p>
+  Asset Pricing
+</p>
+
 <p>
   Link to: <a href="https://drive.google.com/file/d/1Vn_Q6Dp3fkSz4pXYQFPNUhLPDjAQq2kA/view">CV</a>.
 </p>
