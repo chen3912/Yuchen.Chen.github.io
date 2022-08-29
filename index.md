@@ -24,7 +24,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://drive.google.com/file/d/1Vn_Q6Dp3fkSz4pXYQFPNUhLPDjAQq2kA/view">CV</a>.
+  Link to: <a href="https://www.dropbox.com/home/2022_JobMarket/CV?preview=CV_YuchenChen.pdf">CV</a>.
 </p>
 
 
