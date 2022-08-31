@@ -24,7 +24,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://www.dropbox.com/home/2022_JobMarket/CV?preview=CV_YuchenChen.pdf">CV</a>.
+  Link to: <a href="https://www.dropbox.com/s/dl8oduz1xc9c59c/CV_YuchenChen.pdf?dl=0">CV</a>.
 </p>
 
 
