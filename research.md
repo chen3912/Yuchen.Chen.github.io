@@ -16,6 +16,7 @@ items:
     authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
     numbering: 2
     award: CFRI Research Excellence Award, 2022 CIRF
+    coverage: Presentations&#58; Boston College*, CICF 2022, CIRF 2022, BI Norwegian Business School 2022*, SFS Cavalcade 2022, UT Austin 2022*, AFA 2022, MFA 2020, UMN brown bag 2019, University of Texas A&M 2019*
     abstract: 
   - title: CapitalMisalc
     description: <strong>Capital Misallocation and Risk Sharing</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521553" target="_blank">SSRN</a>]
