@@ -17,7 +17,7 @@ items:
     numbering: 2
     award: CFRI Research Excellence Award, 2022 CIRF
     coverage: Presentations&#58; Boston College*, CICF 2022, CIRF 2022, BI Norwegian Business School 2022*, SFS Cavalcade 2022, UT Austin 2022*, AFA 2022, MFA 2020, UMN brown bag 2019, University of Texas A&M 2019*
-    abstract: 
+    abstract: Financial intermediary (FI) stress, measured by leverage and equity constraints, is emphasized as an important driver of asset prices and quantities by financial economists. We identify a new and equally important channel through which FIs affect risk and the real sector: FIs are stressed when their labor share is high. FI labor share negatively forecasts growth of aggregate output, investment, and credit; it positively forecasts market excess returns and cost of credit.
   - title: CapitalMisalc
     description: <strong>Capital Misallocation and Risk Sharing</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521553" target="_blank">SSRN</a>]
     authors: With <a href="https://www.hengjieai.com/" target="_blank">Hengjie Ai</a>, <a href="http://www.bhandarianmol.com/" target="_blank">Anmol Bhandari</a>, and <a href = "https://chaoy.weebly.com/" target="_blank">Chao Ying</a>
