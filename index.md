@@ -14,7 +14,7 @@ profile_picture:
 <strong>Primary research interests</strong>
 
 <p>
-  Macro-Finance, Structual Corporate Finance and Monetary Policy
+  Macro-Finance, Corporate Finance and Monetary Policy
 </p>
 
 <strong>Secondary research interest</strong>
