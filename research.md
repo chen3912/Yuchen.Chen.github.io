@@ -5,7 +5,7 @@ slug: /Research
 
 items:
   - title: JMP
-    description: <strong>Monetary Policy, Debt Structure and Credit Reallocation</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  
+    description: <strong>Monetary Policy, Debt Structure and Credit Reallocation (Job Market Paper)</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  
     authors: Yuchen Chen
     numbering: 1
     award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
