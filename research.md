@@ -11,7 +11,7 @@ items:
     award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
     coverage: Selected Presentations&#58; NFA 2022 Ph.D session; Stanford SITE 2022; Summer Institute of Finance 2022; New York Fed; AFA 2022; EWMES 2021; 18th Macro Finance Society PhD Session; MFA 2021; FMA 2021
     abstract: Unexpected monetary tightening predicts a contraction in aggregate corporate bonds but an expansion in bank loans. Using micro-data, I demonstrate that large and high rated firms with high collateral value and low default risk rebalance towards bank loans and away from corporate bonds, as the relative spread of bond over loan increases. This demand-side "credit substitution channel" and firm heterogeneity together explain the aggregate evidence. I develop a heterogeneous-agent New Keynesian model where bank loans are senior and safer (collateralized) than defaultable bonds but issued at a greater intermediation cost. My model can quantitatively explain the response of corporate bonds and bank loans with respect to monetary policy surprises. An interest rate hike raises default risk and thus the relative cost of bond financing. In response, large and unconstrained firms substitute bank loans for corporate bond, while constrained firms tend to issue more equity. The redistribution effect of this credit substitution channel amplifies the negative effects of interest rate hike on welfare and investment by 8% and 14%, respectively.
-    - title: Extrapolation
+  - title: Extrapolation
     description: <strong>Monetary Policy, Extrapolation Bias and Investment</strong> 
     authors: Yuchen Chen
     numbering: 2
