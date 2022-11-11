@@ -15,7 +15,7 @@ items:
     description: <strong>Monetary Policy, Extrapolation Bias and Investment</strong> 
     authors: Yuchen Chen
     numbering: 2
-    abstract: This paper studies the redistributive effects of earning extrapolation bias on the transmission of monetary policy. Empirically, over-pessimistic firms with lower earning forecasts have higher investment elasticity to monetary shocks in the advertising-intensive industries. I develop a heterogeneous-agent New Keynesian model to quantify the effects of extrapolation bias in a frictional product market, where firms extrapolate over idiosyncratic productivity news when making decisions on physical investment and customer acquisition. The model implies that firm-level overreaction amplifies the effects of monetary easing. It generates an increase in aggregate productivity as capital flows to high markup firms. Moreover, the rise in aggregate output is underestimated by 57% if we assume rational expectation.
+    abstract: This paper studies the redistributive effects of earning extrapolation bias on the transmission of monetary policy. 
   - title: BankLS
     description: <strong>Do Bankers Matter for Main Street? The Financial Intermediary Labor Channel</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106828" target="_blank">SSRN</a>]
     authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
