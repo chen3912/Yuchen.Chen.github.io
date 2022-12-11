@@ -8,7 +8,7 @@ profile_picture:
 <strong>Welcome!</strong>
 
 <p>
-  I am a Ph.D. Candidate in Finance from Carlson School of Management, University of Minnesota. I was a Dissertation Fellow at the Federal Reserve Bank of New York in the summer of 2022. I will be on the job market and available for interviews at ASSA (New Orleans), and any virtual interviews during the 2022-23 academic year.
+  I am a Ph.D. Candidate in Finance from Carlson School of Management, University of Minnesota. I was a Ph.D. Dissertation Intern at the Federal Reserve Bank of New York in the summer of 2022. I will be on the job market and available for interviews at ASSA (New Orleans), and any virtual interviews during the 2022-23 academic year.
 </p>
 
 <strong>Primary research interests</strong>
