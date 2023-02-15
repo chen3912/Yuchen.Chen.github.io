@@ -29,9 +29,6 @@ profile_picture:
   Link to: <a href="https://www.dropbox.com/s/dl8oduz1xc9c59c/CV_YuchenChen.pdf?dl=0">CV</a>.
 </p>
 
-<p>
-  Link to: <a href="https://www.dropbox.com/s/jsbz2hy9gv6ehpa/JMP_PE.pdf?dl=0">JMP</a>.
-</p>
 
 <strong>Contact Information:</strong>
 
