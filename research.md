@@ -5,7 +5,7 @@ slug: /Research
 
 items:
   - title: JMP
-    description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation (Job Market Paper)</strong> [<a href="https://www.dropbox.com/s/jsbz2hy9gv6ehpa/JMP_PE.pdf?dl=0">PDF</a>] [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  
+    description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation (Job Market Paper)</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  
     authors: Yuchen Chen
     numbering: 1
     award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
@@ -33,7 +33,7 @@ items:
     description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">SSRN</a>]
     authors: With <a href="https://xuelinli.com/" target="_blank">Xuelin Li</a>, <a href="https://sites.google.com/site/richardthakor/" target="_blank">Richard T. Thakor</a>, and <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
     numbering: 5
-    coverage: Presentations&#58; MFA 2023 (scheduled), Midwest Macro Meeting*, UNC Junior Roundtable 2022*, Minnesota Corporate Finance Conference 2022*
+    coverage: Presentations&#58; Cavalcade (scheduled), 2023 MFA 2023 (scheduled), Midwest Macro Meeting*, UNC Junior Roundtable 2022*, Minnesota Corporate Finance Conference 2022*
     abstract: Do restrictions on labor mobility inhibit growth? We quantitatively evaluate this question in a dynamic agency model that jointly accounts for investment in intangible capital, knowledge spillovers, and the allocation of rents among investors and agents. Our calibration is disciplined by targeting the responses of employee turnover, firm intangible investment rates, and a novel construction of the values of workers' outside options to state-level changes in the degree of non-compete enforcement. Analysis that studies counterfactual rates of knowledge appropriation finds potential gains to growth of 20 basis points per year from policies that enhance mobility and alleviate agency problems.
   - title: OSER
     description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]     (Master Thesis</a>)
