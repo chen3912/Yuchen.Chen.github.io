@@ -8,21 +8,14 @@ profile_picture:
 <strong>Welcome!</strong>
 
 <p>
-  I am a Ph.D. Candidate in Finance from Carlson School of Management, University of Minnesota. I was a Ph.D. Dissertation Intern at the Federal Reserve Bank of New York in the summer of 2022. 
+  I am an Assistant Professor of Finance at the Gies College of Business, University of Illinois Urbana-Champaign. 
   
-  I will be on the job market and available for interviews at ASSA (New Orleans), and any virtual interviews during the 2022-23 academic year.
 </p>
 
-<strong>Primary research interests</strong>
+<strong>Research interests</strong>
 
 <p>
-  Macro-Finance, Structual Corporate, and Monetary Policy
-</p>
-
-<strong>Secondary research interest</strong>
-
-<p>
-  Asset Pricing
+  Macro-Finance, Asset Pricing, Structual Corporate, and Monetary Policy
 </p>
 
 <p>
@@ -35,11 +28,11 @@ profile_picture:
  <p>
  <div>Address:</div>
  <div>Department of Finance</div>
- <div>3-122 Carlson School of Management</div>
- <div>321 19th Ave South</div>
- <div>Minneapolis, MN, 55455</div>
+ <div>452 Wohlers Hall</div>
+ <div>1206 South 6th St</div>
+ <div>Champaign, IL, 61820</div>
 </p>
 
 <p>
-  Email: <a href="mailto:chen3912@umn.edu" target="_blank">chen3912@umn.edu</a>
+  Email: <a href="mailto:chen3912@illinois.edu" target="_blank">chen3912@illinois.edu</a>
 </p>
