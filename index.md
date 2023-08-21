@@ -19,7 +19,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://www.dropbox.com/scl/fi/4hpm2584lnjehbuqnw8bn/CV_YuchenChen.pdf?rlkey=6vojs5q1el3mvm951n4nqqt7e&dl=0">CV</a>.
+  Link to: <a href="https://www.dropbox.com/scl/fi/4hpm2584lnjehbuqnw8bn/CV_YuchenChen.pdf?dl=0&rlkey=6vojs5q1el3mvm951n4nqqt7e">CV</a>.
 </p>
 
 
