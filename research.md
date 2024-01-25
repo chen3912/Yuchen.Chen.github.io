@@ -6,7 +6,6 @@ slug: /Research
 items:
   - title: JMP
     description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation </strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  
-    authors: <strong>Revise and Resubmit, Journal of Finance</strong>
     numbering: 1
     award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
     coverage: Selected Presentations&#58; AFA 2022; Stanford SITE 2022; New York Fed 2022; NFA 2022 Ph.D session; Summer Institute of Finance 2022; EWMES 2021; 18th Macro Finance Society PhD Session; MFA 2021; FMA 2021
